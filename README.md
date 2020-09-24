@@ -1,5 +1,5 @@
 # Arduino Discord Notification
-[LIVE DEMO](https://mehtaab.dev/assets/mp4/Arduino_Discord_Notification_Demo.mp4)
+[DEMO](https://mehtaab.dev/assets/mp4/Arduino_Discord_Notification_Demo.mp4)
 
 ### Example .env file:
 ```
